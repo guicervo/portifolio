@@ -24,7 +24,7 @@ I am currently taking two courses:
 
 ## Projetos:
 
-* **:** 
+* **Análise Exploratório de um modulo solar:** https://bit.ly/32N9gy4 
 
 ---
 
