@@ -22,9 +22,9 @@ I am currently taking two courses:
 * [LinkedIn](https://www.linkedin.com/in/guilhermecervo)
 
 
-## Projetos:
+## Projects:
 
-* **Análise Exploratório de um modulo solar:** https://bit.ly/32N9gy4 
+* **Exploratory Analysis of Solar Module:** https://bit.ly/32N9gy4 
 
 ---
 
