@@ -25,6 +25,7 @@ I am currently taking two courses:
 ## Projects:
 
 * **Exploratory Analysis of Solar Module:** https://bit.ly/32N9gy4 
+* **Exploratory Analysis and Linear Regression of Supermakert dataset:** https://bit.ly/3eqliCX
 
 ---
 
